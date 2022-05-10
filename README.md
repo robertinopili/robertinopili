@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @robertinopili
+- 👀 I’m interested in learning and improve my python skills
+- 🌱 I’m currently learning sql and matplotlib/numpy/pandas
+- 💞️ I’m looking to collaborate on economic or investing project
+- 📫 How to reach me .. send me a message
